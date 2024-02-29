@@ -16,6 +16,7 @@ This repository contains MATLAB implementations for the swing-up control of an i
 **Usage:**
 - Clone the repository to your local machine using `git clone`.
 - Navigate to the respective folders for optimization, Simulink model, or parameter estimation.
+- Open the script and run the code with the appropriate data
 
 **Dependencies:**
 - MATLAB R2019a or later.
