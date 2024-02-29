@@ -1,4 +1,4 @@
-# time_optimal_upswing_pendulum
+# time_optimal_swing_up_pendulum
 **Repository: Time-optimal Swing-Up Inverted Pendulum**
 
 **Description:**
